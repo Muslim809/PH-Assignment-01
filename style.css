@@ -213,3 +213,36 @@ input[type="text"] {
   padding: 10px 5px;
   box-sizing: border-box;
 }
+.footer-logo {
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #4e47ff;
+  text-align: center; /* Horizontal centering */
+  width: 1200px;
+  margin-top: 70px;
+  margin-bottom: 0%;
+}
+.footer-para {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #8987a1;
+  text-align: center; /* Horizontal centering */
+  width: 1200px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center; /* Horizontal centering */
+  width: 1170px;
+  gap: 20px;
+  padding: 5px auto;
+  position: relative;
+  right: 20px;
+}
+li a {
+  text-decoration: none;
+  color: #8987a1;
+}
+
